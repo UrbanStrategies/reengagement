@@ -1,5 +1,4 @@
-dd2014
+reengagenetwork.org
 ======
 
-Measure DD Redistricting Commission
-Simple page to raise awareness about DD
+Microsite for the Alameda County reengagement center network, hosted by Urban Strategies Council
