@@ -209,7 +209,7 @@ fieldset[disabled] .btn-xl.active {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 400;
     letter-spacing: 1px;
-    color: #fff;
+    color: #000;
 }
 
 .navbar-default .nav li a:hover,
@@ -226,7 +226,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
-    color: #fff;
+    color: #000;
     background-color: #0027FF;
 }
 
@@ -263,7 +263,7 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: #fff;
+    color: #000;
     background-attachment: scroll;
     background-image: url(../img/house.jpg);
     background-position: center center;
